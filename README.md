@@ -1,1 +1,1 @@
-s.o.o
+Income Increase Module Registration
