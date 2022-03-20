@@ -1,11 +1,11 @@
-package com.orakoglu.iim.s.repository;
+package com.orakoglu.iim.r.repository;
 
 import java.util.Optional;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
-import com.orakoglu.iim.s.entity.User;
+import com.orakoglu.iim.r.entity.User;
 
 @Repository
 public interface UserRepository extends JpaRepository<User, Long> {

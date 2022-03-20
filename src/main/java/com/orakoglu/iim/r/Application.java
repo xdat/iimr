@@ -1,4 +1,4 @@
-package com.orakoglu.iim.s;
+package com.orakoglu.iim.r;
 
 import java.util.Arrays;
 

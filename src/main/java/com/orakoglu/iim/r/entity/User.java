@@ -1,4 +1,4 @@
-package com.orakoglu.iim.s.entity;
+package com.orakoglu.iim.r.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.EnumType;
@@ -10,7 +10,7 @@ import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 
-import com.orakoglu.iim.s.enums.Role;
+import com.orakoglu.iim.r.enums.Role;
 
 @Entity
 public class User {

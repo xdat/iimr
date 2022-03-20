@@ -1,4 +1,4 @@
-package com.orakoglu.iim.s.configuration;
+package com.orakoglu.iim.r.configuration;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -6,8 +6,8 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Controller;
 
-import com.orakoglu.iim.s.entity.User;
-import com.orakoglu.iim.s.repository.UserRepository;
+import com.orakoglu.iim.r.entity.User;
+import com.orakoglu.iim.r.repository.UserRepository;
 
 @Controller
 public class LoadDatabase {

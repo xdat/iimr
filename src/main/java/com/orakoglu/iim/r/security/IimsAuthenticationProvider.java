@@ -1,4 +1,4 @@
-package com.orakoglu.iim.s.security;
+package com.orakoglu.iim.r.security;
 
 import org.springframework.security.access.AccessDeniedException;
 import org.springframework.security.authentication.AuthenticationProvider;

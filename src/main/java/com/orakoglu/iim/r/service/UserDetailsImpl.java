@@ -1,4 +1,4 @@
-package com.orakoglu.iim.s.service;
+package com.orakoglu.iim.r.service;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -8,7 +8,7 @@ import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 
-import com.orakoglu.iim.s.entity.User;
+import com.orakoglu.iim.r.entity.User;
 
 public class UserDetailsImpl implements UserDetails {
 	private static final long serialVersionUID = 7855110879656215646L;
