@@ -1,1 +1,1 @@
-Income Increase Module Registration
+Income Increasement Module Registration
